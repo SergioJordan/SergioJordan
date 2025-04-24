@@ -132,6 +132,6 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/SergioJordan/SergioJordan/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SergioJordan/SergioJordan/output/snake.svg" alt="Snake animation" />
 
 ###

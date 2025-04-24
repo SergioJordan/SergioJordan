@@ -30,8 +30,6 @@
 
 <h2 align="left">🛠 Languages & Tools</h2>
 
----
-
 <h3 align="left">💻 Programming & Frameworks</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />

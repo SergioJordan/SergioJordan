@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" />
 </div>
 
 ###
@@ -11,6 +11,10 @@
   
   <a href="https://github.com/SergioJordan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+
+  <a href="https://www.credly.com/users/sergio_jordan">
+    <img src="https://img.shields.io/static/v1?message=Credly&logo=credly&label=&color=FF6B00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="credly logo" />
   </a>
 </div>
 

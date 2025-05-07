@@ -26,7 +26,9 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey! You're just in time ⏰
+
+</h1>
 
 ###
 

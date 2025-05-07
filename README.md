@@ -34,7 +34,12 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  I'm a passionate Mechatronic Engineer with over 8 years of experience across development, systems integration, and technical advisory. <br><br>
+  - 🔭 I’m currently focused on building high-concurrency, robust Java SE applications and architecting service-oriented solutions that adapt to real-world challenges.<br>
+  - 📚 I'm currently exploring emerging cloud-native technologies and automation tools to enhance integration delivery and system scalability.<br>
+  - ⚡ In my free time, I love solving engineering puzzles, exploring new DevOps practices, and contributing to projects where innovation meets practical impact.
+</p>
 
 <h2 align="left">🛠 Languages & Tools</h2>
 

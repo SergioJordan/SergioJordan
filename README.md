@@ -35,17 +35,12 @@
 ###
 
 <p align="left">
-  I'm a Mechatronic Engineer ⚙️ with 8 years of hands-on experience in tech and development 💻.<br><br>
-
-  I build systems that handle lots of users at once 👥. Mostly using Java ☕. I like things that just work — fast ⚡, stable 🧱, and clean 🧼.<br><br>
-
-  I’ve worked on projects that needed smart integrations 🔗 and solid performance 🚀. Service-oriented architectures (SOA) are my thing. I enjoy making different systems talk to each other smoothly 🤝.<br><br>
-
-  I’m also good with clients 🤓. I like solving their problems 🧠 and giving them exactly what they need — nothing more, nothing less 🎯.<br><br>
-
-  Right now, I’m always learning 📚. New tools 🛠️. New tech 🧪. Always leveling up ⬆️.<br><br>
-
-  Outside of work, I enjoy tinkering with new ideas 💡 and exploring tech trends 🌐. Curiosity drives me 🧭.<br><br>
+  I'm a Mechatronic Engineer ⚙️ with 8 years of hands-on experience in tech and development 💻.<br>
+  I build systems that handle lots of users at once 👥. Mostly using Java ☕. I like things that just work — fast ⚡, stable 🧱, and clean 🧼.<br>
+  I’ve worked on projects that needed smart integrations 🔗 and solid performance 🚀. Service-oriented architectures (SOA) are my thing. I enjoy making different systems talk to each other smoothly 🤝.<br>
+  I’m also good with clients 🤓. I like solving their problems 🧠 and giving them exactly what they need — nothing more, nothing less 🎯.<br>
+  Right now, I’m always learning 📚. New tools 🛠️. New tech 🧪. Always leveling up ⬆️.<br>
+  Outside of work, I enjoy tinkering with new ideas 💡 and exploring tech trends 🌐. Curiosity drives me 🧭.<br>
 
   If it’s a challenge 🧩 and needs a sharp, creative fix — I’m in ✅.
 </p>

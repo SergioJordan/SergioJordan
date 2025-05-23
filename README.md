@@ -47,7 +47,6 @@
   I’m also good with clients 🤓. I like solving their problems 🧠 and giving them exactly what they need — nothing more, nothing less 🎯.<br><br>
   Right now, I’m always learning 📚. New tools 🛠️. New tech 🧪. Always leveling up ⬆️.<br><br>
   Outside of work, I enjoy tinkering with new ideas 💡 and exploring tech trends 🌐. Curiosity drives me 🧭.<br><br>
-
   If it’s a challenge 🧩 and needs a sharp, creative fix — I’m in ✅.
 </p>
 
